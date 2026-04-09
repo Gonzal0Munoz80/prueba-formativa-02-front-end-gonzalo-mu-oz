@@ -13,3 +13,10 @@ me introdujo nuevas secciones a la pagina como testimonios las reglas UN FAQ y u
 
 Adapta el sitio para que funcione bien en celular.
 Se agrego la navegacion para celular con varios tipo de menu
+
+
+Agrega una mejora final al sitio (algo adicional que lo haga más completo).
+Se agrego un Contador regresivo hasta el inicio de un torneo 
+Seleccion de ubicaciones
+Seccion de patrocionadores
+Imagen de portada agregada 
