@@ -8,5 +8,8 @@ Se hizo mejoras all css del archivo inicial para mas atractividad
 Me fue util para agregar mas  diseños a la pagina
 
 Agrega nuevas secciones o contenido al sitio.
-
 me introdujo nuevas secciones a la pagina como testimonios las reglas UN FAQ y una pequeña mejora al css como aniamciones hover y efectos vidrio para el diseño 
+
+
+Adapta el sitio para que funcione bien en celular.
+Se agrego la navegacion para celular con varios tipo de menu
