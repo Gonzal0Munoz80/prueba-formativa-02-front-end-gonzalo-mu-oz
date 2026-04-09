@@ -1,0 +1,12 @@
+Desarrollar un sitio web funcional utilizando tecnologías front end (HTML y CSS) Se te solicita construir un sitio web para promocionar una actividad, evento o iniciativa a elección para este ejemplo torneo gamer
+
+Me fue util para el desarrollo inicial del proyecto
+
+Mejora el diseño visual del sitio (colores, distribución, estilo).
+
+Se hizo mejoras all css del archivo inicial para mas atractividad 
+Me fue util para agregar mas  diseños a la pagina
+
+Agrega nuevas secciones o contenido al sitio.
+
+me introdujo nuevas secciones a la pagina como testimonios las reglas UN FAQ y una pequeña mejora al css como aniamciones hover y efectos vidrio para el diseño 
